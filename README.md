@@ -1,5 +1,7 @@
 # Diablo 3 Auction House Prototype
 
+Diablo 3 Auction House Prototype is a university group project created by [RedSkittleFox](https://github.com/RedSkittleFox), [DJAltair](https://github.com/DJAltair) and [Wodogrzmot](https://github.com/Wodogrzmot).
+
 ## Prototype
 
 You can check out the prototype [here](https://www.google.com).
@@ -691,4 +693,119 @@ You can check out the prototype [here](https://www.google.com).
 </p>
 </details>
 
+</details>
+
+### Integration Models
+
+#### Provided Integrations
+
+<p align="center">
+<img src="./diagrams/integration_model/provided_integrations/Provided integrations.jpg?raw=true" width="*"/>
+</p>
+
+<details>
+<summary>Use Case Diagrams</summary>
+
+<details>
+<summary>Get auction</summary>
+<p align="center">
+<img src="./diagrams/integration_model/provided_integrations/Get auction domain.jpg?raw=true" width="*"/>
+</p>
+
+<p align="center">
+<img src="./diagrams/integration_model/provided_integrations/Get auction uc.jpg?raw=true" width="*"/>
+</p>
+
+</details>
+
+<details>
+<summary>Get items</summary>
+
+<p align="center">
+<img src="./diagrams/integration_model/provided_integrations/Get items domain.jpg?raw=true" width="*"/>
+</p>
+
+<p align="center">
+<img src="./diagrams/integration_model/provided_integrations/Get items uc.jpg?raw=true" width="*"/>
+</p>
+
+</details>
+
+<details>
+<summary>Get player character</summary>
+
+<p align="center">
+<img src="./diagrams/integration_model/provided_integrations/Get player character domain.jpg?raw=true" width="*"/>
+</p>
+
+<p align="center">
+<img src="./diagrams/integration_model/provided_integrations/Get player character uc.jpg?raw=true" width="*"/>
+</p>
+
+</details>
+
+<details>
+<summary>Get player profile</summary>
+
+<p align="center">
+<img src="./diagrams/integration_model/provided_integrations/Get player profile domain.jpg?raw=true" width="*"/>
+</p>
+
+<p align="center">
+<img src="./diagrams/integration_model/provided_integrations/Get player profile uc.jpg?raw=true" width="*"/>
+</p>
+
+</details>
+
+</details>
+
+#### Utilized Integrations
+
+<p align="center">
+<img src="./diagrams/integration_model/utilized_integrations/Utilized integrations.jpg?raw=true" width="*"/>
+</p>
+
+<details>
+<summary>Domain Models</summary>
+
+<details>
+<summary>Przelewy24 Register Transaction</summary>
+<p align="center">
+<img src="./diagrams/integration_model/utilized_integrations/Przelewy24 Register Transaction.jpg?raw=true" width="*"/>
+</p>
+</details>
+
+
+<details>
+<summary>Przelewy24 Transaction Verification</summary>
+<p align="center">
+<img src="./diagrams/integration_model/utilized_integrations/Przelewy24 Transaction Verification.jpg?raw=true" width="*"/>
+</p>
+</details>
+
+</details>
+
+### Deployment Models
+
+<details>
+<summary>Application layer</summary>
+<p align="center">
+<img src="./diagrams/deployment_model/Application layer.jpg?raw=true" width="*"/>
+</p>
+</details>
+
+
+<details>
+<summary>Infrastructure layer</summary>
+<p align="center">
+<img src="./diagrams/deployment_model/Infrastructure layer.jpg?raw=true" width="*"/>
+</p>
+</details>
+
+
+<details>
+<summary>Runtime environments layer</summary>
+<p align="center">
+<img src="./diagrams/deployment_model/Runtime environments layer.jpg?raw=true" width="*"/>
+</p>
 </details>

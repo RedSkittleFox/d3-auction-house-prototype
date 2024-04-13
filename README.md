@@ -4,14 +4,20 @@ Diablo 3 Auction House Prototype is a university group project created by [RedSk
 
 ## Prototype
 
-You can check out the prototype [here](https://www.google.com).
+<p align="center">
+	<img src="./diagrams/prototype.png?raw=true" width="*"/>
+</p>
+
+You can check out the prototype [here](https://redskittlefox.github.io/d3-auction-house-prototype/).
 
 ## Models
 
 ### Domain Model
 
 <p align="center">
-  <img src="./diagrams/domain_model/Domain model.jpg?raw=true" width="*"/>
+	<a href="https://redskittlefox.github.io/d3-auction-house-prototype/">
+		<img src="./diagrams/domain_model/Domain model.jpg?raw=true" width="*"/>
+	</a>
 </p>
 
 ### Use Cases
